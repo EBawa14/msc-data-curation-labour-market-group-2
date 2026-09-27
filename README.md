@@ -12,7 +12,7 @@
 ## Data
 *   **Original Data Provider:** International Labour Organization (ILOSTAT)
 *   **Source Links:** [ILOSTAT Data Explorer](https://ilostat.ilo.org/data/)
-*   **Date of Retrieval:** September 26, 2026
+*   **Date of Retrieval:** September 15, 2026
 *   **Original Filenames:** `Labour_force_Participation.xlsx`, `Unemployment Rate.xlsx`, `Employment_to_Population.xlsx`, `Informal Employment Rate.xlsx`
 
 ## Coverage
