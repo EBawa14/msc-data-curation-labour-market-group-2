@@ -1,1 +1,63 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook xmlns="ddi:codebook:2_5" version="2.5">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>DDI Metadata for Sub-Saharan Africa Labour Market Cross-Section</titl>
+      </titlStmt>
+      <prodStmt>
+        <producer>Group 2</producer>
+        <prodDate date="2026-09-26">September 26, 2026</prodDate>
+      </prodStmt>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>Curated Sub-Saharan Africa Labour Market Cross-Section (2022)</titl>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty>Group 2</AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <producer>University of Cape Coast</producer>
+        <software version="3.0">Python pandas</software>
+      </prodStmt>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <keyword>Labour Force</keyword>
+        <keyword>Unemployment</keyword>
+        <keyword>Informal Employment</keyword>
+        <keyword>Sub-Saharan Africa</keyword>
+      </subject>
+      <abstract>A curated dataset of four labour market indicators across Sub-Saharan African countries for the year 2022.</abstract>
+      <sumDscr>
+        <timePrd event="single">2022</timePrd>
+        <geogCover>Sub-Saharan Africa</geogCover>
+        <anlyUnit>Country-Demographic Group</anlyUnit>
+      </sumDscr>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <dataCollector>International Labour Organization</dataCollector>
+        <sources>
+          <dataSrc>ILOSTAT Data Explorer</dataSrc>
+        </sources>
+      </dataColl>
+    </method>
+  </stdyDscr>
+  <dataDscr>
+    <var name="Country" intrvl="discrete">
+      <labl>Country Name</labl>
+      <txt>Sovereign state in Sub-Saharan Africa</txt>
+    </var>
+    <var name="Indicator" intrvl="discrete">
+      <labl>Labour Market Indicator</labl>
+    </var>
+    <var name="Observation_Status" intrvl="discrete">
+      <labl>Observation Status Flag</labl>
+      <txt>Distinguishes observed values from ILO modelled estimates.</txt>
+    </var>
+  </dataDscr>
+</codeBook>
