@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # 1. Set the main folder path where your project is located
-folder_path = r"C:\Users\antwi\OneDrive\Desktop\jones work\group 2"
+folder_path = r"C:\Users\OneDrive\Desktop\group 2
 
 # 2. Define the exact columns required by the assignment rubric
 columns = [
