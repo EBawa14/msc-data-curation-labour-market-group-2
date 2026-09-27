@@ -1,1 +1,15 @@
-
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Curated Sub-Saharan Africa Labour Market Cross-Section (2022)"
+authors:
+  - family-names: "Adansi"
+    given-names: "Ernest Mawufermo"
+  - family-names: "Johnson"
+    given-names: "Justice Jerry"
+  - family-names: "Courage"
+    given-names: "Gozey"
+  - family-names: "Bawa"
+    given-names: "Eric Ndorbokone"
+version: 1.0
+date-released: "2026-09-26"
+url: "[Insert Your GitHub URL Here]"
