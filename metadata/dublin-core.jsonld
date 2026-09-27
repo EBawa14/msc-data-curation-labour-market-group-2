@@ -1,1 +1,22 @@
-
+{
+  "@context": "https://dublincore.org/specifications/dublin-core/dcmi-terms/",
+  "@type": "Dataset",
+  "dcterms:title": "Curated Sub-Saharan Africa Labour Market Cross-Section (2022)",
+  "dcterms:creator": "Group 2 (MSc Data Curation and Management, UCC)",
+  "dcterms:subject": "Labour Market, Employment, Unemployment, Sub-Saharan Africa",
+  "dcterms:description": "A cross-sectional dataset containing four labour-market indicators for Sub-Saharan African countries for the year 2022, retaining disaggregations for sex and age.",
+  "dcterms:publisher": "University of Cape Coast",
+  "dcterms:contributor": "International Labour Organization (Source Data)",
+  "dcterms:issued": "2026-09-29",
+  "dcterms:modified": "2026-09-26",
+  "dcterms:type": "Dataset",
+  "dcterms:format": "text/csv",
+  "dcterms:identifier": "msc-data-curation-labour-group-2",
+  "dcterms:source": "https://ilostat.ilo.org/data/",
+  "dcterms:language": "en",
+  "dcterms:spatial": "Sub-Saharan Africa",
+  "dcterms:temporal": "2022",
+  "dcterms:rights": "Source data governed by ILO open access terms. Repository assets under MIT License.",
+  "dcterms:license": "https://opensource.org/licenses/MIT",
+  "dcterms:provenance": "Extracted from ILOSTAT global files, filtered to 2022, subset to Sub-Saharan Africa, merged and standardized via Python."
+}
