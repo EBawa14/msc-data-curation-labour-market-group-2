@@ -24,4 +24,3 @@
 
 ## 4. Software Used
 *   Python 3
-*   Pandas
