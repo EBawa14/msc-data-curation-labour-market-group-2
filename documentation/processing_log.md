@@ -24,4 +24,4 @@
 
 ## 4. Software Used
 *   Python 3
-*   Pandas (Data manipulation, I/O)
+*   Pandas
